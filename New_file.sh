@@ -1,1 +1,1 @@
-echo date
+select sysdate fro dual;
