@@ -1,1 +1,1 @@
-@https://github.com/Tarakdevops/NewProject/test.sql
+@https://github.com/Tarakdevops/NewProject/blob/master/test.sql
