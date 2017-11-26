@@ -1,1 +1,1 @@
-select sysdate from dual;
+@https://github.com/Tarakdevops/NewProject/edit/master/test.sql
