@@ -1,1 +1,1 @@
-echo "Mail body"
+date
