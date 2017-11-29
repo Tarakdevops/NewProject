@@ -1,0 +1,1 @@
+"C:\Program Files\Quest Software\Toad for Oracle 2017 R2 Trial Edition\Toad for Oracle 12.12 Trial\Toad.exe" -a "Toad_CA | C:\Program Files\Quest Software\Toad for Oracle 2017 R2 Trial Edition\Toad for Oracle 12.12 Trial\param.ini"
